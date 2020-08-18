@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="SelectionSortUsingTemplate"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/CppLearning/2SelectionSortUsingTemplate/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Qt5/Qt5.12.0/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/CppLearning/2SelectionSortUsingTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Qt5/Qt5.12.0/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/CppLearning/2SelectionSortUsingTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Qt5/Qt5.12.0/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/CppLearning/2SelectionSortUsingTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Qt5/Qt5.12.0/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/CppLearning/2SelectionSortUsingTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SelectionSortUsingTemplate">
+				<Option output="D:/CppLearning/2SelectionSortUsingTemplate/cmake-build-debug/SelectionSortUsingTemplate.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CppLearning/2SelectionSortUsingTemplate/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Qt5/Qt5.12.0/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="D:/Qt5/Qt5.12.0/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/Qt5/Qt5.12.0/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="D:/Qt5/Qt5.12.0/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="D:/Qt5/Qt5.12.0/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="D:/Qt5/Qt5.12.0/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Qt5/Qt5.12.0/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/CppLearning/2SelectionSortUsingTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 SelectionSortUsingTemplate"/>
+					<CompileFile command="D:/Qt5/Qt5.12.0/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/CppLearning/2SelectionSortUsingTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Qt5/Qt5.12.0/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/CppLearning/2SelectionSortUsingTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Qt5/Qt5.12.0/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/CppLearning/2SelectionSortUsingTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SelectionSortUsingTemplate/fast">
+				<Option output="D:/CppLearning/2SelectionSortUsingTemplate/cmake-build-debug/SelectionSortUsingTemplate.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CppLearning/2SelectionSortUsingTemplate/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Qt5/Qt5.12.0/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="D:/Qt5/Qt5.12.0/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/Qt5/Qt5.12.0/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="D:/Qt5/Qt5.12.0/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="D:/Qt5/Qt5.12.0/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="D:/Qt5/Qt5.12.0/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Qt5/Qt5.12.0/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/CppLearning/2SelectionSortUsingTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 SelectionSortUsingTemplate/fast"/>
+					<CompileFile command="D:/Qt5/Qt5.12.0/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/CppLearning/2SelectionSortUsingTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Qt5/Qt5.12.0/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/CppLearning/2SelectionSortUsingTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Qt5/Qt5.12.0/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/CppLearning/2SelectionSortUsingTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/CppLearning/2SelectionSortUsingTemplate/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Qt5/Qt5.12.0/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/CppLearning/2SelectionSortUsingTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Qt5/Qt5.12.0/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/CppLearning/2SelectionSortUsingTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Qt5/Qt5.12.0/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/CppLearning/2SelectionSortUsingTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Qt5/Qt5.12.0/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/CppLearning/2SelectionSortUsingTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/CppLearning/2SelectionSortUsingTemplate/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Qt5/Qt5.12.0/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/CppLearning/2SelectionSortUsingTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Qt5/Qt5.12.0/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/CppLearning/2SelectionSortUsingTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Qt5/Qt5.12.0/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/CppLearning/2SelectionSortUsingTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Qt5/Qt5.12.0/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/CppLearning/2SelectionSortUsingTemplate/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/CppLearning/2SelectionSortUsingTemplate/Student.h">
+			<Option target="SelectionSortUsingTemplate"/>
+		</Unit>
+		<Unit filename="D:/CppLearning/2SelectionSortUsingTemplate/main.cpp">
+			<Option target="SelectionSortUsingTemplate"/>
+		</Unit>
+		<Unit filename="D:/CppLearning/2SelectionSortUsingTemplate/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

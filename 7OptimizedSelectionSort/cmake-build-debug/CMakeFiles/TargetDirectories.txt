@@ -1,0 +1,3 @@
+D:/CppLearning/7OptimizedSelectionSort/cmake-build-debug/CMakeFiles/OptimizedSelectionSort.dir
+D:/CppLearning/7OptimizedSelectionSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CppLearning/7OptimizedSelectionSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

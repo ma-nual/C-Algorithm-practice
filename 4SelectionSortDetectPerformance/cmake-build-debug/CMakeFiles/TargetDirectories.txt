@@ -1,0 +1,3 @@
+D:/CppLearning/4SelectionSortDetectPerformance/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CppLearning/4SelectionSortDetectPerformance/cmake-build-debug/CMakeFiles/SelectionSortDetectPerformance.dir
+D:/CppLearning/4SelectionSortDetectPerformance/cmake-build-debug/CMakeFiles/rebuild_cache.dir

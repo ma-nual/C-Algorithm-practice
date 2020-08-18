@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CppLearning/7OptimizedSelectionSort/InsertionSort.h
+iostream
+-
+
+D:/CppLearning/7OptimizedSelectionSort/SelectionSort.h
+iostream
+-
+
+D:/CppLearning/7OptimizedSelectionSort/SortTestHelper.h
+iostream
+-
+ctime
+-
+cassert
+-
+
+D:/CppLearning/7OptimizedSelectionSort/main.cpp
+iostream
+-
+SortTestHelper.h
+D:/CppLearning/7OptimizedSelectionSort/SortTestHelper.h
+SelectionSort.h
+D:/CppLearning/7OptimizedSelectionSort/SelectionSort.h
+InsertionSort.h
+D:/CppLearning/7OptimizedSelectionSort/InsertionSort.h
+

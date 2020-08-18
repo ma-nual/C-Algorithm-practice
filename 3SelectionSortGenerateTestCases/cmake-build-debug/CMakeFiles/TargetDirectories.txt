@@ -1,0 +1,3 @@
+D:/CppLearning/3SelectionSortGenerateTestCases/cmake-build-debug/CMakeFiles/SelectionSortGenerateTestCases.dir
+D:/CppLearning/3SelectionSortGenerateTestCases/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CppLearning/3SelectionSortGenerateTestCases/cmake-build-debug/CMakeFiles/rebuild_cache.dir

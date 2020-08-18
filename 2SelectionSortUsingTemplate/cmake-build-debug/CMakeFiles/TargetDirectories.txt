@@ -1,0 +1,3 @@
+D:/CppLearning/2SelectionSortUsingTemplate/cmake-build-debug/CMakeFiles/SelectionSortUsingTemplate.dir
+D:/CppLearning/2SelectionSortUsingTemplate/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CppLearning/2SelectionSortUsingTemplate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
