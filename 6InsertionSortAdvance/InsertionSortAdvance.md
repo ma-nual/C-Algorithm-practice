@@ -1,10 +1,12 @@
 # 插入排序
 
-**基本思想：**每一趟将待排序的数据元素插入到前面已排好序的子序列中，直到所有元素排完为止，使用移动元素实现可以提前结束排序。
+**基本思想：** 每一趟将待排序的数据元素插入到前面已排好序的子序列中，直到所有元素排完为止，使用移动元素实现可以提前结束排序。
 
-**运行目标：**添加辅助函数生成近乎有序数组和复制数组，实现插入排序。
+**运行目标：** 添加辅助函数生成近乎有序数组和复制数组，实现插入排序。
 
 **演示图像：**
+
+![InsertionSortAdvance](https://github.com/ma-nual/C-Algorithm-practice/blob/master/6InsertionSortAdvance/InsertionSortAdvance.gif)
 
 ![InsertionSortAdvance](D:\CppLearning\6InsertionSortAdvance\InsertionSortAdvance.gif)
 
@@ -155,6 +157,8 @@ int main() {
 
 **运行结果：**
 
+![output](https://github.com/ma-nual/C-Algorithm-practice/blob/master/6InsertionSortAdvance/output.png)
+
 ![output](D:\CppLearning\6InsertionSortAdvance\output.png)
 
-**结论：**从测试结果可以发现插入排序可以提前结束排序提高排序效率，且对于有序性越强的数组效果越好。
+**结论：** 从测试结果可以发现插入排序可以提前结束排序提高排序效率，且对于有序性越强的数组效果越好。

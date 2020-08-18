@@ -1,6 +1,6 @@
 # 选择排序
 
-**运行目标：**在一轮循环中，同时找到最大值和最小值。
+**运行目标：** 在一轮循环中，同时找到最大值和最小值。
 
 **实现程序：**
 
@@ -82,5 +82,7 @@ int main() {
 ```
 
 **运行结果：**
+
+![output](https://github.com/ma-nual/C-Algorithm-practice/blob/master/7OptimizedSelectionSort/output.png)
 
 ![output](D:\CppLearning\7OptimizedSelectionSort\output.png)

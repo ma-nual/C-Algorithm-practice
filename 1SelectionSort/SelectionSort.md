@@ -6,7 +6,9 @@
 
 **演示图像：**
 
-![image](https://github.com/ma-nual/C-Algorithm-practice/blob/master/1SelectionSort/selectionsort.gif)
+![selectionsort](D:\CppLearning\1SelectionSort\selectionsort.gif)
+
+![selectionsort](https://github.com/ma-nual/C-Algorithm-practice/blob/master/1SelectionSort/selectionsort.gif)
 
 **实现程序：**
 
@@ -40,5 +42,7 @@ int main() {
 ```
 
 **运行结果：**
+
+![output](D:\CppLearning\1SelectionSort\output.png)
 
 ![output](https://github.com/ma-nual/C-Algorithm-practice/blob/master/1SelectionSort/output.png)

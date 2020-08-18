@@ -1,6 +1,6 @@
 # 选择排序
 
-**运行目标：**使用辅助函数生成随机数组和打印数组。
+**运行目标：** 使用辅助函数生成随机数组和打印数组。
 
 **实现程序：**
 
@@ -74,6 +74,8 @@ int main() {
 }
 ```
 
-**运行结果：**
+**运行结果：** 
+
+![output](https://github.com/ma-nual/C-Algorithm-practice/blob/master/3SelectionSortGenerateTestCases/output.png)
 
 ![output](D:\CppLearning\3SelectionSortGenerateTestCases\output.png)

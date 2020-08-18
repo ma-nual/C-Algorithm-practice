@@ -1,6 +1,6 @@
 # 选择排序
 
-**运行目标：**使用模板实现对任意类型进行选择排序。
+**运行目标：** 使用模板实现对任意类型进行选择排序。
 
 **实现程序：**
 
@@ -84,6 +84,8 @@ int main() {
 }
 ```
 
-**运行结果：**
+**运行结果：** 
+
+![output](https://github.com/ma-nual/C-Algorithm-practice/blob/master/2SelectionSortUsingTemplate/output.png)
 
 ![output](D:\CppLearning\2SelectionSortUsingTemplate\output.png)

@@ -1,10 +1,12 @@
 # 冒泡排序
 
-**基本思想：**每一趟从待排序的数据元素中比较两个元素，如果顺序不对则交换，直到所有元素排完为止，并使用标志位和使用标记最后一次交换位置进行优化。
+**基本思想：** 每一趟从待排序的数据元素中比较两个元素，如果顺序不对则交换，直到所有元素排完为止，并使用标志位和使用标记最后一次交换位置进行优化。
 
-**时间复杂度：**O(n^2)
+**时间复杂度：** O(n^2)
 
 **演示图像：**
+
+![bubblesort](https://github.com/ma-nual/C-Algorithm-practice/blob/master/8BubbleSort/bubblesort.gif)
 
 ![bubblesort](D:\CppLearning\8BubbleSort\bubblesort.gif)
 
@@ -126,5 +128,7 @@ int main() {
 ```
 
 **运行结果：**
+
+![output](https://github.com/ma-nual/C-Algorithm-practice/blob/master/8BubbleSort/output.png)
 
 ![output](D:\CppLearning\8BubbleSort\output.png)

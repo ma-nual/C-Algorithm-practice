@@ -1,10 +1,12 @@
 # 希尔排序
 
-**基本思想：**先将整个待排序的序列分割成若干子序列分别进行插入排序，直到所有元素排完为止。
+**基本思想：** 先将整个待排序的序列分割成若干子序列分别进行插入排序，直到所有元素排完为止。
 
-**时间复杂度：**小于或等于O(n^2)
+**时间复杂度：** 小于或等于O(n^2)
 
 **演示图像：**
+
+![shellsort](https://github.com/ma-nual/C-Algorithm-practice/blob/master/9ShellSort/shellsort.gif)
 
 ![shellsort](D:\CppLearning\9ShellSort\shellsort.gif)
 
@@ -93,5 +95,7 @@ int main() {
 ```
 
 **运行结果：**
+
+![output](https://github.com/ma-nual/C-Algorithm-practice/blob/master/9ShellSort/output.png)
 
 ![output](D:\CppLearning\9ShellSort\output.png)
