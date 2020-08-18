@@ -41,4 +41,4 @@ int main() {
 
 **运行结果：**
 
-![output](D:\CppLearning\1SelectionSort\output.png)
+![output](https://github.com/ma-nual/C-Algorithm-practice/blob/master/1SelectionSort/output.png)
